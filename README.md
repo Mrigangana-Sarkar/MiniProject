@@ -13,7 +13,7 @@ Total spending by category
 
 Total overall spending
 
-Monthly spending summary
+Monthly,Daily and weekly spending summary
 
 
 
@@ -91,7 +91,7 @@ Provides three summary options to the user:
 2. Total Overall Spending: Displays the total spending for all categories.
 
 
-3. Spending Over Time (Monthly): Displays total spending for each month in the YYYY-MM format.
+3. Spending Over Time (Monthly,Daily,Weekly): Displays total spending for each month,or day or week in the respective format.
 
 
 
